@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AndroidBasic1</string>
-    <string name="title">Yubraj Pokharel</string>
-    <string name="homeBtn">Sample Button</string>
+    <string name="title">Batman Vs. SuperMan</string>
+    <string name="homeBtn">Click Me!</string>
 </resources>
