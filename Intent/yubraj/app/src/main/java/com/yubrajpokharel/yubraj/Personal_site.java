@@ -35,4 +35,13 @@ public class Personal_site extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    public void onBackPressed(){
+        if(personalSite.canGoBack()){
+            personalSite.goBack();
+        }else{
+            finish();
+        }
+    }
 }
